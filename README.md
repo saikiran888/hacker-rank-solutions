@@ -1,2 +1,2 @@
-# hacker-rank-solutions
+#coding solutions
 solutins for coding interview
